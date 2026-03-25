@@ -1,15 +1,18 @@
-# UK Supermarket Sales Analysis 🛒
+Key Business Insights
+Market Dominance:
 
-## Overview
-This project focuses on analyzing sales data for a local supermarket branch in the **United Kingdom**. It aims to extract key business insights regarding sales performance and trends using a professional dashboard.
+Insight: The UK is your main engine, contributing 84.6% of total revenue.
 
-## Data Source
-The dataset consists of transaction records from the UK branch, including order dates, product categories, and sales metrics.
+Decision: Focus marketing budget on the UK to maintain growth, while testing the Netherlands as the next potential market.
 
-## Tools Used
-* **Microsoft Excel:** Data cleaning and Power Query.
-* **Power BI:** Building an interactive dashboard to visualize KPIs like Total Sales and Profit.
+Sales Peak (Seasonality):
 
-## Project Structure
-* `UK_Supermarket_Sales.xlsx`: The raw data and Excel analysis.
-* `Supermarket_Sales_Dashboard.pbix`: The Power BI visualization file.
+Insight: Huge sales spike in November (Q4).
+
+Decision: Increase stock levels and staff starting from October to handle the end-of-year rush.
+
+Cost Alert:
+
+Insight: "Postage" is the #1 revenue generator/cost.
+
+Decision: Review shipping contracts or offer "Free Shipping" on bundles to increase the Average Order Value (currently 534.40).
